@@ -13,3 +13,4 @@ var n = String(num);
  }else{
      console.log("No");
  }
+//code is running properly.
