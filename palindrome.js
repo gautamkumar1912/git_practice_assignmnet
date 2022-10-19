@@ -1,4 +1,4 @@
-//Check if the Number is palindrome 
+//Check if the Number is palindrome or not? 
 
 var num = 1221;
 var n = String(num);
