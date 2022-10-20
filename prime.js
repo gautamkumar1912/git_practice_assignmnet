@@ -14,4 +14,4 @@ console.log("Prime number");
 }else{
 console.log("Not a prime number");
 }
-//code will work now
+//code will work now........||
